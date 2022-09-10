@@ -1,7 +1,1 @@
-Hello world !
-
-This is a new feature !
-
-asdf
-
-staaash
+Idk random test and stuff that should not affect master even tho both branches point to the same commit right ?
